@@ -1,0 +1,48 @@
+.container {
+  position: relative;
+
+}
+
+h1 {
+    position: absolute;
+    font-size: 100px;
+    top: 0;
+    left: 0;
+    text-align: center;
+    width: 100%;
+}
+
+.text-1 {
+  position: absolute;
+  top: 50%;
+  left: 7%;
+  font-size: 38px;
+  color: white;
+}
+
+img{
+  width: 100%;
+}
+
+.nav-bar {
+  position: absolute;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  font-size: 38px;
+  top: 0;
+  left: 31%;
+  word-spacing: 30px;
+}
+
+li {
+  display: inline;
+}
+
+li a{
+  text-decoration: none;
+}
+
+li a:hover {
+  opacity: 0.5;
+}
