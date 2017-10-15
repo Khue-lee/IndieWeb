@@ -24,6 +24,10 @@ img{
   margin: -270px -100px 0px 0px;
 }
 
+.m{
+  padding-left: 300px;
+}
+
 #menu {
   position: absolute;
   list-style-type: none;
@@ -46,8 +50,8 @@ img{
 
 li{
   float: left;
-  margin-left: 120px;
-  margin-right: 120px;
+  margin-left: 50px;
+  margin-right: 50px;
 }
 
 li a{
